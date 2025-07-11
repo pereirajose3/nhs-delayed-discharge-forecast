@@ -14,7 +14,7 @@ By forecasting these trends, healthcare professionals and planners can better an
 - Support NHS decision-making with data-driven insights
 - Enable reproducibility and transparency using public data
 
-## 🛠Methods and Tools
+## Methods and Tools
 
 - **AI Models:** Prophet (with potential extensions to other ML models)
 - **Language:** Python
