@@ -16,7 +16,7 @@ By forecasting these trends, healthcare professionals and planners can better an
 
 ## Methods and Tools
 
-- **AI Models:** Prophet (with potential extensions to other ML models)
+- **AI Models:** Prophet
 - **Language:** Python
 - **Libraries:** pandas, matplotlib, Prophet, scikit-learn
 - **Data Source:** NHS England – [Daily Discharge Situation Reports](https://www.england.nhs.uk/statistics/statistical-work-areas/discharge-delays/)
